@@ -10,6 +10,7 @@
     "depends": [
         "product",
         "product_logistics_uom",
+        "delivery",
     ],
     "website": "https://github.com/OCA/product-attribute",
     "data": [
